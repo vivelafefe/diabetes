@@ -1,0 +1,24 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+  - pyviz
+dependencies:
+  - matplotlib
+  - matplotlib-base
+  - matplotlib-inline
+  - numpy
+  - numpy-base
+  - numpydoc
+  - pandas
+  - seaborn
+  - seaborn-base
+  - scikit-image
+  - scikit-learn
+  - scikit-learn-intelex
+  - panel
+  - jupyter-panel-proxy
+  
+      
+    
+prefix: /Users/polzovatel/opt/anaconda3
