@@ -7,16 +7,16 @@ dependencies:
   - matplotlib
   - matplotlib-base
   - matplotlib-inline
-  - numpy
+  - numpy==1.23.5
   - numpy-base
   - numpydoc
-  - pandas
+  - pandas==1.5.2
   - seaborn
   - seaborn-base
   - scikit-image
   - scikit-learn
   - scikit-learn-intelex
-  - panel
+  - panel==0.14.3
   - jupyter-panel-proxy
   
       
