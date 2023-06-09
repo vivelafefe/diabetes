@@ -5,8 +5,7 @@ channels:
   - pyviz
 dependencies:
   - python=3.9.15
-  - pip:
-    - matplotlib.pyplot
+  - matplotlib.pyplot
   - pandas=1.5.2
   - numpy=1.23.5
   - scikit-learn=1.1.3
