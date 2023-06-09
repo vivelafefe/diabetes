@@ -5,9 +5,10 @@ channels:
   - pyviz
 dependencies:
   - python=3.9.15
+  - pip:
+    - matplotlib.pyplot==3.6.2
   - pandas=1.5.2
   - numpy=1.23.5
-  - matplotlib=3.6.2
   - scikit-learn=1.1.3
   - panel=0.14.3
   - jupyter-panel-proxy
