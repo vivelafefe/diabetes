@@ -6,7 +6,7 @@ channels:
 dependencies:
   - python=3.9.15
   - pip:
-    - matplotlib.pyplot==3.6.2
+    - matplotlib.pyplot
   - pandas=1.5.2
   - numpy=1.23.5
   - scikit-learn=1.1.3
